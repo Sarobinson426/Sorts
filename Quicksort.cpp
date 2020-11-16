@@ -1,5 +1,5 @@
 // Author: Shaun Robinson
-// Program: Hash Table 
+// Program: Quicksort
 
 #include<iostream>
 #include<cstdlib>
